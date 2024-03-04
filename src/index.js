@@ -5,6 +5,7 @@ import { BrowserRouter as Router } from "react-router-dom";
 import AllRoutes from "./routes/routes";
 import "bootstrap/dist/css/bootstrap.min.css";
 import "./index.css";
+import "./assets/css/form.css"
 const root = createRoot(document.getElementById("root"));
 
 root.render(

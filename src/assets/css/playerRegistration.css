@@ -1,0 +1,30 @@
+/* CSS */
+
+.background-gradient {
+  background: linear-gradient(to bottom, #db0202, #574040);
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.registration-card {
+  width: 400px;
+  background-color: #1a191929 !important;
+  color: white !important;
+}
+
+.center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.card-heading {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.card{
+  background-color: #ffffff29;
+}
